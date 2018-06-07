@@ -1,35 +1,23 @@
 # LeetCode Challenge (in C/C++ Language)
 
-LeetCode.com is a social platform for preparing technical interviews for companies in the IT industry. My objective is to finish all the available questions using C/C++ in a year or two to test my understanding of coding and algorithms. For easy access, I have encoded every 20 solutions in one single Markdown file, ordered by their index numbers.
+LeetCode.com is a coding website which has algorithm challenges that are widely asked in interviews. My objective is to finish all available questions in C/C++, to build my understanding of coding and algorithms. I have listed all the solved solutions and their corresponding source file in the following table, ordered by the index number.
 
 ## Dashboard
 
-First day started: May 27, 2018
+Date started: May 27, 2018
 
-Now I have Completed: 6 / 808
-
-
-
-## Array
-
-- 1. Two Sum
+Completed: 7 / 812
 
 
+## Algorithm List
 
-## Math
-- 7. Reverse Integer
-- 9. Palindrome Number
-- 168. Excel Sheet Column Title
-- 231. Power of Two
-
-
-
-## String
-- 165. Compare Version Numbers
-
-
-
-## Bit Manipulation
-- 231. Power of Two
-
+|  #   | Title                    | Solution   | Note             |
+| :--: | :----------------------- | ---------- | ---------------- |
+|  1   | Two Sum                  | two_sum.c |                  |
+|  7   | Reverse Integer          | reverse.c   |                  |
+|  9   | Palindrome Number        | is_palindrome.c |                  |
+| 165  | Compare Version Numbers  | compare_version.c | String |
+| 168  | Excel Sheet Column Title | convert_to_title.c | String |
+| 191  | Number of 1 Bits         | hamming_weight.c | Bit Manipulation |
+| 231  | Power of Two             | is_power_of_two.c        | Bit Manipulation |
 

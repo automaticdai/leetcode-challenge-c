@@ -1,7 +1,3 @@
-
-
-## 231. Power of Two
-```c++
 bool isPowerOfTwo(int n) {
 
 	if (n < 0) { return false; }
@@ -18,4 +14,3 @@ bool isPowerOfTwo(int n) {
 
 	return false;
 }
-```
