@@ -6,18 +6,18 @@ LeetCode.com is a coding website which has algorithm challenges that are widely 
 
 Date started: May 27, 2018
 
-Completed: 7 / 812
+Completed: 7 / 812 (0.8%)
 
 
 ## Algorithm List
 
 |  #   | Title                    | Solution   | Note             |
 | :--: | :----------------------- | ---------- | ---------------- |
-|  1   | Two Sum                  | two_sum.c |                  |
-|  7   | Reverse Integer          | reverse.c   |                  |
-|  9   | Palindrome Number        | is_palindrome.c |                  |
-| 165  | Compare Version Numbers  | compare_version.c | String |
-| 168  | Excel Sheet Column Title | convert_to_title.c | String |
-| 191  | Number of 1 Bits         | hamming_weight.c | Bit Manipulation |
-| 231  | Power of Two             | is_power_of_two.c        | Bit Manipulation |
+|  1   | Two Sum                  | [C](./src/two_sum.c) |                  |
+|  7   | Reverse Integer          | [C](./src/reverse.c)   |                  |
+|  9   | Palindrome Number        | [C](./src/is_palindrome.c) |                  |
+| 165  | Compare Version Numbers  | [C](./src/compare_version.c) | String |
+| 168  | Excel Sheet Column Title | [C](./src/convert_to_title.c) | String |
+| 191  | Number of 1 Bits         | [C](./src/hamming_weight.c) | Bit Manipulation |
+| 231  | Power of Two             | [C](./src/is_power_of_two.c)        | Bit Manipulation |
 
